@@ -1,0 +1,5 @@
+node_modules
+pic.png
+yarn*
+serviceAccountKey.json
+.idea
